@@ -46,3 +46,4 @@ When I put the title “Testes” and no questions
 And I confirm the creation of the roteiro
 Then I receive a message telling me a roteiro must have questions associated with it
 And I can see the roteiro “Requisitos” in the list with the questions “Escreva cenários com qualidade para o projeto” and “Avalie os cenários de um dos seus colegas de grupo” at the “Roteiros” page
+And [mudanças requisitadas pelo stakeholder (questão 7.e)]
